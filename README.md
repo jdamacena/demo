@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/jdamacena/friendlychat_api](https://my-json-server.typicode.com/jdamacena/friendlychat_api)
 
 ## Use your own data
 
